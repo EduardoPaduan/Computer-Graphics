@@ -1,4 +1,4 @@
-h1> Repository for Computer Graphics</h1>
+<h1> Repository for Computer Graphics</h1>
 
   <p>This is the space where I store and share the codes and projects I developed during my academic journey in the Computer Graphics course.</p>
 
